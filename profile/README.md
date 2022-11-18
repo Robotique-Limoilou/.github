@@ -1,5 +1,3 @@
-Bonjour, vous avez trouvé le GitHub du Club de Robotic du Cégep Limoilou (Campus Québec)
-
 # Robotique Limoilou (Campus Québec)
 
 - [À propos](https://www.cegeplimoilou.ca/etudiants/vie-etudiante/activites/robotique/)
